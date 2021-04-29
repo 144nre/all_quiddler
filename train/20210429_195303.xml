@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210429_195303.png</filename>
+	<path>C:\Users\Nick\Documents\all_quiddler\train\20210429_195303.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ER</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>110</ymin>
+			<xmax>564</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
