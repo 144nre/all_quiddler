@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20210429_195555.png</filename>
+	<path>C:\Users\Nick\Documents\all_quiddler\test\20210429_195555.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>107</ymin>
+			<xmax>550</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
